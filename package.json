@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "gh-pages": "^2.0.1",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-mdl": "^1.11.0",
@@ -32,5 +33,5 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://APuck003.github.io/personal-portfolio-site"
+  "homepage": "https://apuck003.github.io/"
 }
