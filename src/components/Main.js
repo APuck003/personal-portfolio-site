@@ -12,7 +12,7 @@ const Main = () => (
     <Route exact path="/" component={LandingPage} />
     <Route path='/about' component={About} />
     <Route path="/projects" component={Projects} />
-    <Route path='/resume' component={Resume} />
+    <Route path='/https://represent.io/apuckett003' component={Resume} />
     <Route path="/contact" component={Contact} />
   </Switch>
   )
