@@ -6,8 +6,12 @@ class Experience extends Component {
     return(
       <Grid>
         <Cell col={4}>
-          
+          <p>{this.props.startYear} - {this.props.endYear}</p>
         </Cell>
+			
+				<Cell col={8}>
+					
+				</Cell>
       </Grid>
     )
   }
