@@ -14,7 +14,7 @@ class Resume extends Component {
   render() {
     return (
         <div>
-          {window.location.replace('https://represent.io/apuckett003')}
+          {/*{window.location.replace('https://represent.io/apuckett003')}*/}
         </div>
     );
   }
